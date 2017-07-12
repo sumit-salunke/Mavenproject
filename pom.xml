@@ -29,7 +29,7 @@
             <executions>
                 <execution>
                     <id>cobertura</id>
-                    <phase>package</phase>
+                    <phase>compile</phase>
                     <goals>
                         <goal>cobertura</goal>
                     </goals>
