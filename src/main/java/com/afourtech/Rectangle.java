@@ -1,3 +1,5 @@
+package com.afourtech;
+
 public class Rectangle {
   public int length;
   public int width;
